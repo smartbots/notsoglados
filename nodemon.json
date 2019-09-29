@@ -1,0 +1,9 @@
+{
+  "verbose": false,
+  "watch": [
+    ".env",
+    "**/*.js"
+  ],
+  "ext": "js",
+  "ignore": ["specs/*", "build/*", "src/specs/*"]
+}
